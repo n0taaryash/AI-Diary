@@ -1,0 +1,5 @@
+
+ttkbootstrap>=1.0.0
+google-generativeai>=0.3.0
+python-dotenv>=0.19.0
+matplotlib>=3.4.0
